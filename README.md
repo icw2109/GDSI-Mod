@@ -6,7 +6,9 @@ This repository contains a Python script that uses the `gdspy` library to progra
 
 ## INTRODUCTION
 
-The script is designed for advanced chip designers who require automated layout generation for a PMUT device. The design is both hierarchical and modular, yet extremely compact compared to other MEMS GDSII generators. While some implementations may use several thousand lines of code for just five layers, this solution uses compact code to manage 15 layers.
+The script is designed for advanced chip designers who require automated layout generation for a PMUT device. The design is both hierarchical and modular, yet extremely compact compared to other MEMS (micro electromechanical systems) GDSII generators. While some implementations may use several thousand lines of code for just five layers, this solution uses compact code to manage 15 layers.
+
+A secondary goal of this script is to provide a baseline from which a more versitile MEMS scripts could be generated. 
 
 **NOTE:** Without a thorough understanding of the foundry-specific design rules, modifying this file may easily break these constraints.
 
