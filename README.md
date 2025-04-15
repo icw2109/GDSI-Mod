@@ -123,10 +123,4 @@ Via & Connection Settings: Customize via sizes, spacing, and routing line specif
 
 Dicing Lanes & IBEAM Structures: Tweak dimensions and offsets to meet additional manufacturing constraints.
 
-HAPPY CODING!
-
 If you have any questions, feedback, or suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-NOTE: This project was developed with foundry-specific design rules in mind. Please ensure you fully understand these constraints before modifying the generated layout.
-
-
